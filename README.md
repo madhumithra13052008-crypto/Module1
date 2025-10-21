@@ -89,7 +89,7 @@ print('a')
 ## Result
 Thus the given Python Program has been exceuted successfully and the output has been verified.
 
-# EX 01-D- Datatypes-Complex Number Creation in Python
+# EX 01-D:Datatypes-Complex Number Creation in Python
 
 ##  Aim
 To write a Python program that reads two integers, creates a complex number using them, and then prints the complex number along with its real and imaginary parts.
@@ -120,7 +120,7 @@ print(x.imag)
 ## Result
 Therefore the given Python Program has been executed succeefully and the output has been verified.
 
-# EX 01-E-Datatypes-Read and Print a String in Python
+# EX 01-E:Datatypes-Read and Print a String in Python
 
 ## 🎯 Aim
 To write a Python program to read a string from the user and then print it.
