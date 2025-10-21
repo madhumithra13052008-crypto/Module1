@@ -67,7 +67,7 @@ print("d:", d)
 ## Result
 Thus the given Python program has been executed successfully and the output has been verified.
 
-#EX 03:  Datatypes-Character Literal in Python
+# EX 03:  Datatypes-Character Literal in Python
 
 ## 🎯 Aim
 To write a Python program that prints the characters `'T'` and `'a'` using character literals.
