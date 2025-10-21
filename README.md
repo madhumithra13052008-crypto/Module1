@@ -1,7 +1,7 @@
 # PYTHON PROGRAMMMING MODULE 1
 ### NAME : MADHUMITHRA.P
 ### REGISTER NUMBER : 25013492
-# Ex 01: Conditional Statements in Python: Even or Odd Checker
+# Ex 01-A: Conditional Statements in Python: Even or Odd Checker
 
 ## 🎯 Aim
 To write a Python program to check whether the given number is **even** or **odd** using `if...else` statements.
@@ -31,7 +31,7 @@ else:
 ## Result
 Thus the Python Program for determining whether the given number is odd or even has been executed successfully and the output has been verified.
 
-# Ex 2:Datatypes-Boolean Expression Evaluation in Python
+# Ex 01-B:Datatypes-Boolean Expression Evaluation in Python
 
 ## 🎯 Aim
 To write a Python program that evaluates and prints the results of boolean and arithmetic expressions involving `True` and `False`.
@@ -67,7 +67,7 @@ print("d:", d)
 ## Result
 Thus the given Python program has been executed successfully and the output has been verified.
 
-# EX 03:  Datatypes-Character Literal in Python
+# EX 01-C:  Datatypes-Character Literal in Python
 
 ## 🎯 Aim
 To write a Python program that prints the characters `'T'` and `'a'` using character literals.
@@ -89,7 +89,7 @@ print('a')
 ## Result
 Thus the given Python Program has been exceuted successfully and the output has been verified.
 
-# EX 04- Datatypes-Complex Number Creation in Python
+# EX 01-D- Datatypes-Complex Number Creation in Python
 
 ##  Aim
 To write a Python program that reads two integers, creates a complex number using them, and then prints the complex number along with its real and imaginary parts.
@@ -120,7 +120,7 @@ print(x.imag)
 ## Result
 Therefore the given Python Program has been executed succeefully and the output has been verified.
 
-# EX 05-Datatypes-Read and Print a String in Python
+# EX 01-E-Datatypes-Read and Print a String in Python
 
 ## 🎯 Aim
 To write a Python program to read a string from the user and then print it.
